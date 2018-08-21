@@ -1,0 +1,20 @@
+{
+  "name": "clusty",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.8.2",
+    "mapbox-gl": "^0.48.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-lazy-hero": "^0.4.0",
+    "react-mapbox-gl": "^3.8.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
